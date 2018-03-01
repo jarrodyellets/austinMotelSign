@@ -19,8 +19,8 @@ body {
 }
 
 .sign {
-	position: relative;
-	top: 80px;
+	position: absolute;
+	bottom: 274px;
 	left: 280px;
 	width: 230px;
 }
@@ -123,12 +123,12 @@ body {
 }
 
 .display {
-	position: relative;
+	position: absolute;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	top: 80px;
+	bottom: 104px;
 	left: 235px;
 	font-family: 'Teko', sans-serif;
 	font-weight: 700;
